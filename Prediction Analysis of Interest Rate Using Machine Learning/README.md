@@ -1,8 +1,8 @@
-This Project is based on Prediction of Interest Rates of Loans from the Lending Club Loan Data.
+#### This Project is based on Prediction of Interest Rates of Loans from the Lending Club Loan Data.
 
-CLAAT Document Link: https://codelabs-preview.appspot.com/?file_id=1lF_J_cSFMXWwWGRYRFfvKUnXzQ2TL8AONJJLQk4sWmY#0
+#### CLAAT Document Link: https://codelabs-preview.appspot.com/?file_id=1lF_J_cSFMXWwWGRYRFfvKUnXzQ2TL8AONJJLQk4sWmY#0
 
-Steps to Regenerate the Project:
+* Steps to Regenerate the Project:
 
 1. Clone the Project into any directory of your choice
 2. Create a sub-folder called "Mice Data" inside the Data folder
